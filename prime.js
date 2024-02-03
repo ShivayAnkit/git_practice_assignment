@@ -9,5 +9,13 @@ for(let i = 1; i < num; i++)
         count++;
     }
 }
-
+if(count >= 2)
+{
+    console.log("Not Prime");
+}
+else
+{
+    console.log("prime");
+}
+}
 checkPrime(9);
