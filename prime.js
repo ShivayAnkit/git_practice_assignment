@@ -9,7 +9,7 @@ for(let i = 1; i < num; i++)
         count++;
     }
 }
-if(count >= 1)
+if(count >= 2)
 {
     console.log("Not Prime");
 }
